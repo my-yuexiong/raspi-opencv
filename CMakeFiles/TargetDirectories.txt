@@ -1,0 +1,3 @@
+/home/yuexiong/opencv_projects/test2/CMakeFiles/rebuild_cache.dir
+/home/yuexiong/opencv_projects/test2/CMakeFiles/edit_cache.dir
+/home/yuexiong/opencv_projects/test2/CMakeFiles/main.dir

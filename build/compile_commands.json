@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/yuexiong/opencv_projects/test2/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/main.cpp.o -c /home/yuexiong/opencv_projects/test2/main.cpp",
+  "file": "/home/yuexiong/opencv_projects/test2/main.cpp"
+},
+{
+  "directory": "/home/yuexiong/opencv_projects/test2/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/my_filter.cpp.o -c /home/yuexiong/opencv_projects/test2/my_filter.cpp",
+  "file": "/home/yuexiong/opencv_projects/test2/my_filter.cpp"
+},
+{
+  "directory": "/home/yuexiong/opencv_projects/test2/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/find_min_area.cpp.o -c /home/yuexiong/opencv_projects/test2/find_min_area.cpp",
+  "file": "/home/yuexiong/opencv_projects/test2/find_min_area.cpp"
+},
+{
+  "directory": "/home/yuexiong/opencv_projects/test2/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/find_close_point.cpp.o -c /home/yuexiong/opencv_projects/test2/find_close_point.cpp",
+  "file": "/home/yuexiong/opencv_projects/test2/find_close_point.cpp"
+},
+{
+  "directory": "/home/yuexiong/opencv_projects/test2/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/find_far_point.cpp.o -c /home/yuexiong/opencv_projects/test2/find_far_point.cpp",
+  "file": "/home/yuexiong/opencv_projects/test2/find_far_point.cpp"
+},
+{
+  "directory": "/home/yuexiong/opencv_projects/test2/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/point_color.cpp.o -c /home/yuexiong/opencv_projects/test2/point_color.cpp",
+  "file": "/home/yuexiong/opencv_projects/test2/point_color.cpp"
+},
+{
+  "directory": "/home/yuexiong/opencv_projects/test2/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/get_center_point.cpp.o -c /home/yuexiong/opencv_projects/test2/get_center_point.cpp",
+  "file": "/home/yuexiong/opencv_projects/test2/get_center_point.cpp"
+}
+]
